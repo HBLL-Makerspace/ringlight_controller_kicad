@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/libs/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name justb)(type KiCad)(uri ${KIPRJMOD}/justb.pretty)(options "")(descr ""))
+  (lib (name EL817S1_C__TU_)(type KiCad)(uri ${KIPRJMOD}/libs/EL817S1_C__TU_)(options "")(descr ""))
+)
