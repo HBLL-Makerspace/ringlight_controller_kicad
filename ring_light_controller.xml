@@ -2,14 +2,14 @@
 <export version="D">
   <design>
     <source>/home/justb/Documents/KiCad/ring_light_controller/ring_light_controller.sch</source>
-    <date>Thu 08 Jul 2021 04:18:46 PM MDT</date>
+    <date>Fri 09 Jul 2021 08:29:29 AM MDT</date>
     <tool>Eeschema 5.1.10-88a1d61d58~88~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Ring Light Controller v4</title>
         <company>Brigham Young University HBLL</company>
-        <rev>2</rev>
-        <date>2021-07-08</date>
+        <rev>3</rev>
+        <date>2021-07-09</date>
         <source>ring_light_controller.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -165,7 +165,7 @@
     </comp>
     <comp ref="R17">
       <value>2.3</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C247504</field>
@@ -233,7 +233,7 @@
     </comp>
     <comp ref="R23">
       <value>2.3</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C247504</field>
@@ -301,7 +301,7 @@
     </comp>
     <comp ref="R30">
       <value>2.3</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C247504</field>
@@ -369,7 +369,7 @@
     </comp>
     <comp ref="R18">
       <value>2.3</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C247504</field>
@@ -437,7 +437,7 @@
     </comp>
     <comp ref="R24">
       <value>2.3</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C247504</field>
@@ -505,7 +505,7 @@
     </comp>
     <comp ref="R31">
       <value>2.3</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C247504</field>
@@ -720,7 +720,7 @@
     </comp>
     <comp ref="L1">
       <value>68uH</value>
-      <footprint>Inductor_SMD:L_12x12mm_H6mm</footprint>
+      <footprint>justb:L_SUNLORD_SWRB1205S_12.5x12.5mm_H6mm</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C169388</field>
