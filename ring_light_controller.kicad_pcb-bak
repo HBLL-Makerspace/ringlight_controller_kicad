@@ -3557,6 +3557,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Bourns_SRR1260.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Resistor_SMD:R_1206_3216Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60E8C247)

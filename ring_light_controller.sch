@@ -4,9 +4,9 @@ EELAYER END
 $Descr USLedger 17000 11000
 encoding utf-8
 Sheet 1 1
-Title "Ring Light Controller v4"
+Title "Ring Light Controller v1"
 Date "2021-07-09"
-Rev "3"
+Rev "4"
 Comp "Brigham Young University HBLL"
 Comment1 ""
 Comment2 ""
