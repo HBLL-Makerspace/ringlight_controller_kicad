@@ -1,4 +1,4 @@
-update=Fri 09 Jul 2021 08:22:43 AM MDT
+update=Mon 26 Jul 2021 04:12:09 PM MDT
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=ring_light_controller_v4.net
+LastNetListRead=ring_light_controller_r5.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
