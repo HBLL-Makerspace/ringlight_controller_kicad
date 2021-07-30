@@ -1748,12 +1748,6 @@ F 5 "C106900" H 3000 2700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3300 2600 3650 2600
-Wire Wire Line
-	3300 2050 3650 2050
-Wire Wire Line
-	3650 2050 3650 2500
-Wire Wire Line
 	2700 2250 2600 2250
 Wire Wire Line
 	2700 2800 2600 2800
@@ -2046,17 +2040,6 @@ Wire Wire Line
 	7950 1950 7950 2000
 Wire Wire Line
 	6950 1950 6950 2000
-Wire Wire Line
-	3850 2250 3850 2300
-Wire Wire Line
-	3450 2800 3300 2800
-Wire Wire Line
-	3450 2250 3850 2250
-Wire Wire Line
-	3450 2250 3450 2800
-Connection ~ 3450 2250
-Wire Wire Line
-	3300 2250 3450 2250
 $Comp
 L Connector:AudioJack2_Ground J1
 U 1 1 61940D1D
@@ -2454,4 +2437,25 @@ Text GLabel 6600 5550 2    50   Input ~ 0
 RX
 Wire Wire Line
 	6600 5550 6400 5550
+Wire Wire Line
+	3850 2050 3850 2250
+Wire Wire Line
+	3300 2050 3850 2050
+Wire Wire Line
+	3300 2600 3400 2600
+Wire Wire Line
+	3400 2600 3400 2250
+Wire Wire Line
+	3400 2250 3850 2250
+Connection ~ 3850 2250
+Wire Wire Line
+	3850 2250 3850 2300
+Wire Wire Line
+	3300 2250 3300 2500
+Wire Wire Line
+	3300 2500 3650 2500
+Wire Wire Line
+	3300 2800 3650 2800
+Wire Wire Line
+	3650 2800 3650 2600
 $EndSCHEMATC
